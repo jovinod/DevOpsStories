@@ -16,12 +16,27 @@ I also observed that such conversations mostly originated at someone's desk and 
 However, this bhaviour stopped reeling the benefits when some of our team members became remote. 
 We often found situations when the remote team members were not plugged into some of these conversations and this was not an inclusive behavior.
 
-## Too long doc??
+## Long docs??
 I realized that when my specs were too long, at times even 50-60 slides or >10 pages in a document, the team would prefer meeting rather than reading.
 This was obvious since it would take a significant amount of time for anyone to grasp the content and then review it.
 Mostly my meetings would talk about explaining what I had written in my product specification documents that often transformed into getting reviews in the same meeting and trying to address the feedback.
 What mostly happened because of this behavior was that the spec discussions became too long and would almost always never close. 
-The impact was that at times we had 2-3 meetings discussing a small spec document. Imagine, spending 12 developers x 3 hours for just discussing a spec. 
+The impact was that at times we had 2-3 meetings discussing a small spec document. Imagine, spending 12 developers x 3 hours for just discussing a spec and still not getting closure.
+
+## Status updates
+A major portion of my time was also consumed by status updates.
+These status updates had different shape and forms depending on the audience e.g. there were status update meetings with the leadership, the team, other stakeholders etc. 
+Though the content of the meeting varied from one stakeholder to another, there was some level of redundancy in the system since almost all of the content that we presented was derived from 3 sources:
+1) Our backlog in Azure DevOps - talking about the in-progress and planned features
+2) Our dashboards - talking about the metrics we were measuring and success or failure of our experiments
+3) Team updates - talking about the risks or issues that the team was facing
+
+As you can notice, item # 1 and # 2 is already there in the system and we were just spending effort in typing English language around our work and our metrics.
+Here one important thing to note is that these meetings were critical since each one served a different purpose and had different stakeholders. 
+However, what gave in was the time and effort required to prepare for these meetings. I would easily spend 1 hour preparing for each of these meetings. 
+Now since most of these meetings were happening each sprint, I was spending almost 4 working hours each sprint (3 weeks) on status update meetings that included preparing for the content and presenting the content.
+
+
 
 
 
