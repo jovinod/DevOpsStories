@@ -1,15 +1,28 @@
-# Document First Organization
 
-Have you been part of teams where all decisions are made on meetings?
-Have you been part of groups where you need to meet to get the ball rolling for even small decisions? 
-Do you have a boss who loves to block your calendar to discuss more? 
-Do you feel you are spending too much time on meeting?
-Are you meeting your own team members in formal meeting discussions for several hours a week? 
-If all this resonates with you then you are a meet first organization.
+# Meet First Team
 
-In this post I'm going to be talking about 2 types of organizations.
-1.	The meeting first organization
-2.	The document first organization
+There was a time in my team when I felt we were  spending too much time on meetings?
+My calendar was blocked 24 hours in a 40 hour week.
+And this did not include offline conversations or folks just walking up to my desk or I walking up to other people's desk for clarifications.  
+Upon enquiry I learnt that it was not just me but there were other members in my team and other members in other teams that felt likewise.
+This is when I started to watch myself from the balcony to observe what was happening and where was I spending all my time.
+So here are some of my observations:
+
+
+## Co-located teams
+Since most of my team members were co-located I was just convenient to meet each other face to face. 
+As a product manager it really helped my team since I was able to unblock them quickly and the turn around time of decision making was very fast.
+I also observed that such conversations mostly originated at someone's desk and we would often find 1 or 2 more developers chime in and we could seek early closure.
+However, this bhaviour stopped reeling the benefits when some of our team members became remote. 
+We often found situations when the remote team members were not plugged into some of these conversations and this was not an inclusive behavior.
+
+## Too long doc??
+I realized that when my specs were too long, at times even 50-60 slides or >10 pages in a document, the team would prefer meeting rather than reading.
+This was obvious since it would take a significant amount of time for anyone to grasp the content and then review it.
+Mostly my meetings would talk about explaining what I had written in my product specification documents that often transformed into getting reviews in the same meeting and trying to address the feedback.
+What mostly happened because of this behavior was that the spec discussions became too long and would almost always never close. 
+The impact was that at times we had 2-3 meetings discussing a small spec document. Imagine, spending 12 developers x 3 hours for just discussing a spec. 
+
 
 
  
