@@ -32,7 +32,7 @@ Table of contents
 - 
 
 # Chapter 7 - Security
-- 
+- Red / Blue exercise
 
 # Chapter 8 - Continuous Everything
 - Deployment pipeline
