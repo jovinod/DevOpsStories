@@ -13,7 +13,7 @@ Measure: Follow build, measure and learn principle and this is incorporated in e
 # What are the main learnings from your DevOps journey?
 We have been on this journey for a decade now and we aren't done yet. However at various stages through this journey we have had numerous learnings. While it's difficult to list all of them here, we have listed a few that were critical to our success. 
 
-## Break long release cycles 
+## Break Long Cycles 
  When Azure DevOps started on this journey we use to ship services as part of multi-year release cycles. Our first step was to move to a 3 weeks sprint. Yes!!! from multi-year to 3 weeks. But why 3 weeks? Well, based on experimentation 2 weeks felt too short and 4 too long. Was that a smooth ride? Absolutely NOT!!! We executed shorter waterfall in these 3 weeks for a long period. We had separate stabalization sprints and above all huge technical debt. However had we not taken this first step, we wouldn't have encountered these second tier issues.
 
 ## Alignment & Autonomy
