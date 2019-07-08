@@ -23,7 +23,7 @@ A feature crew owns its own backlog. It decides what will be shipped in the next
 
 While at the same time, all feature crews within a product are aligned to speak the same taxonomy in the organization e.g. Sprints for each teams stars and ends on a fixed date.
 
-## Own what you create
+## Ownership
 At the start we had thousands of tests.  They were written by “testers” to test code written by “developers”.  While there were some advantages of this model – like clearly measurable and controllable investment in test, expertise and career growth in the testing discipline, etc. there were also many disadvantages – lack of accountability on the developers, slow feedback cycle (introduce bug, find bug, fix bug), developers had little motivation to make their code “testable”, divergence between code architecture and test architecture made refactoring and pivoting very hard/expensive, and more.
 
 We combined the dev and test orgs into a consolidating “engineering” org.  For the most part, we eliminated the distinction between people who code and people who test.  That’s not to say every person does an identical amount of each, but every person does some of everything and is accountable for the quality of what they produce.
